@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DymedropCreator</string>
+    <string name="deep_link_host">creator.dymedrop.me</string>
+    <string name="deep_link_scheme">dymedrop</string>
+</resources>
